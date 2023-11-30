@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.main{
+    width: min-content;
+    height: min-content;
+    background-color: aqua;
+    padding: 20px;
+    margin: auto;
+}
+
+.form{
+    display: flex;
+}
+
+.editInput{
+    width: 100%;
+}
+
+tr  {
+    width: fit-content;
+}

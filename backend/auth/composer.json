@@ -1,0 +1,17 @@
+{
+    "name": "nicat/auth",
+    "autoload": {
+        "psr-4": {
+            "Nicat\\Auth\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GasimovNijat",
+            "email": "nijatt.gasimov@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.9"
+    }
+}
